@@ -1,0 +1,13 @@
+li{
+     list-style-position: inside
+}
+
+article{
+    text-align: center;
+}
+
+#arka-plan{
+    background-image: url('hakkımıza-arka-plan.webp');
+    background-repeat: no-repeat;
+
+}
